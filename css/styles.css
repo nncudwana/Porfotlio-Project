@@ -1,3 +1,15 @@
+body {
+  background-color: rgb(24, 22, 22);
+}
+.shero {
+  color: azure;
+  text-align: center;
+}
 h1 {
-  color: greenyellow;
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3 {
+  font-size: 40px;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
