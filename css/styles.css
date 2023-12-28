@@ -28,8 +28,6 @@ p {
   }
 }
 footer {
-  padding: 10px 14px;
-}
-.socials {
-  padding-left: 20px;
+  justify-content: center;
+  padding: 10px;
 }
